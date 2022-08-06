@@ -1,4 +1,8 @@
 # ZhiMiao_JiuJia
+### 2022年8月6日
+**pid已由原来的纯数字固定id变成了随机字母id，并且未开放预约的疫苗无法获取PID。**
+**原py程序无法直接使用，大家根据需要自行修改吧**
+![48_9HP(@}QEPPPMO @S22_V](https://user-images.githubusercontent.com/25584923/183229846-d0eb0de2-8250-41c1-9e58-473fac066065.png)
 ### 目标
 [2022-04-17编写]
 
