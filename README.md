@@ -1,4 +1,6 @@
 # ZhiMiao_JiuJia
+** 推荐：https://github.com/SunshineList/jiujia
+** 这个老哥已经更新，可以自动获取PID
 ### 2022年8月6日
 **pid已由原来的纯数字固定id变成了随机字母id，并且未开放预约的疫苗无法获取PID。**
 **原py程序无法直接使用，大家根据需要自行修改吧**
